@@ -1,0 +1,15 @@
+{
+  "name": "problem-with-asar",
+  "version": "1.0.0",
+  "description": "desc",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "prettier": "prettier --semi false --write *.js"
+  },
+  "devDependencies": {
+    "electron": "~1.7.8",
+    "electron-builder": "^19.52.1",
+    "prettier": "^1.10.2"
+  }
+}
